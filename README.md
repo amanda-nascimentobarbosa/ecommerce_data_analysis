@@ -42,7 +42,3 @@ The analysis's findings can be used by the general manager to maintain track of 
 
 ### Link to the project
 You can see the project [here](https://datastudio.google.com/embed/reporting/76fc7645-d7d1-4cce-bcf0-63ceab12dded/page/p_5edvud7cwc)
-
-
-
-
