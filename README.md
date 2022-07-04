@@ -41,5 +41,5 @@ The first step was to validate the dataset:
 The analysis's findings can be used by the general manager to maintain track of KPIs in one location, effectively communicate insights to c-level executives, and enable management to act quickly and decisively based on the most recent data.
 
 ### Link to the project
-You can see the project <a href="https://datastudio.google.com/embed/reporting/76fc7645-d7d1-4cce-bcf0-63ceab12dded/page/p_5edvud7cwc" target="_blank">here</a>
+You can see the project <a href="https://datastudio.google.com/embed/reporting/76fc7645-d7d1-4cce-bcf0-63ceab12dded/page/p_5edvud7cwc" target="blank" rel="noopener noreferrer">here</a>
 
