@@ -24,8 +24,8 @@ The business is undergoing extreme growth. If necessary, they would rather sell 
 
 **Questions to answer about store performance:**
 - Total revenue
-- Sales volume
-- Average ticket
+- Products sold
+- Average ticket price
 - Top 5 selling products
 - Late shipments
 - Payment methods
