@@ -13,7 +13,7 @@ When it comes to accessing data, dashboards can aid your e-commerce company by s
 In this project, you are a marketing analyst working for an online company, and you must assist the general manager in comprehending business performance.
 The business is undergoing extreme growth. If necessary, they would rather sell more than they would make.
 
-<h3>Objetives</h3> 
+<h3>Objectives</h3> 
 
 - Simplicity, higher-level and objective metrics that can generate a action plan;
 - The business is interested in product and financial performance metrics;
